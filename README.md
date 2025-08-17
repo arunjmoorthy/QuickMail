@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
+QuickMail is an email assistant to allow users to quickly filter through their email, quickly responding to simple emails and bookmarking emails that require more thought.
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
